@@ -1,6 +1,6 @@
 // Experiences Data - Easy to edit!
 // For logos, you can use:
-// 1. Image file path: "images/logos/xenera.png" (put logo files in images/logos folder)
+// 1. Image file path: "images/logos/example.png" (put logo files in images/logos folder)
 // 2. External URL: "https://example.com/logo.png"
 // 3. Emoji fallback: "🤖" (if no logo image available)
 
@@ -22,14 +22,6 @@ const experiencesData = [
         date: "Jan 2026 – Apr 2026",
         location: "San Francisco, California - Remote",
         description: "Led the AI team on a vectorless, reasoning-based RAG system indexing 10K+ regulatory documents as traversable trees, reaching 98% accuracy with traceable retrieval and intent-based routing to openFDA, PubMed, and ClinicalTrials.gov."
-    },
-    {
-        logo: "images/logos/xenara.png", 
-        company: "Xenara AI",
-        role: "Machine Learning Engineer Intern · LangChain, Pinecone, MongoDB",
-        date: "Aug 2025 – Oct 2025",
-        location: "Mississauga, Ontario - Remote",
-        description: "Built an end-to-end RAG pipeline with FastAPI and LangChain, delivering production-ready LLM responses with guardrails and MLflow telemetry."
     },
     {
         logo: "images/logos/umiacs.png", // Replace with your logo file or use emoji "🔬"
