@@ -6,24 +6,22 @@
 
 const experiencesData = [
     {
-        logo: "images/logos/vinmotion.png",
+        logo: "images/logos/brightmachines.png",
         logoType: "image",
-        company: "VinMotion (Vingroup - Vietnam's largest private conglomerate)",
-        role: "AI Engineer · Embedded AI, Autonomous Systems",
-        date: "Dec 2025",
-        location: "Ha Noi, Vietnam - Remote",
-        description: "Worked as an AI Engineer focusing on embedded AI solutions, collaborating with cross-functional teams to develop, optimize, and deploy AI models supporting autonomous systems and humanoid robots."
+        company: "Bright Machines",
+        role: "Robotics Simulation Engineer Intern · Isaac Lab, cuRobo, LeRobot",
+        date: "May 2026 – Aug 2026",
+        location: "San Francisco, California",
+        description: "Led an end-to-end chip assembly manipulation pipeline in Isaac Sim/Isaac Lab, generating 1,000 demonstrations with cuRobo and training a diffusion policy to 90% in-sim success, 30 points above the IL/RL baseline."
     },
     {
-        // logo: "images/logos/rapid.png",
-        // logoType: "image",
-        logo: "🔬",
-        logoType: "emoji",
+        logo: "images/logos/rapid.png",
+        logoType: "image",
         company: "RAPID™ (PMRAC, LLC)",
-        role: "AI Engineer Co-op · RAG Design, FastAPI",
-        date: "Dec 2025",
+        role: "AI Engineer Co-op · Agentic RAG, Docling, FastAPI",
+        date: "Jan 2026 – Apr 2026",
         location: "San Francisco, California - Remote",
-        description: "Designed and implemented an AI-powered regulatory intelligence prototype for client-facing platforms, integrating publicly available data sources such as openFDA, PubMed, and ClinicalTrials.gov. Conducted applied research, developed LLM-driven logic and API integrations, and validated system architecture and performance in collaboration with RAPID™ leadership."
+        description: "Led the AI team on a vectorless, reasoning-based RAG system indexing 10K+ regulatory documents as traversable trees, reaching 98% accuracy with traceable retrieval and intent-based routing to openFDA, PubMed, and ClinicalTrials.gov."
     },
     {
         logo: "images/logos/xenara.png", 
